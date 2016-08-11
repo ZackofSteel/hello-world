@@ -1,2 +1,3 @@
 # hello-world
 THEY TOLD ME TO
+A BIT ABOUT MYSELF
